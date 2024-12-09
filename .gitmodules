@@ -1,0 +1,9 @@
+[submodule "cs231n_assignment1"]
+	path = cs231n_assignment1
+	url = https://github.com/JiantengChen/cs231n_assignment1
+[submodule "cs231n_assignment3"]
+	path = cs231n_assignment3
+	url = https://github.com/JiantengChen/cs231n_assignment3
+[submodule "cs231n_assignment2"]
+	path = cs231n_assignment2
+	url = https://github.com/JiantengChen/cs231n_assignment2
